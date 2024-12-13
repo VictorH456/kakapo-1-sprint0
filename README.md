@@ -1,8 +1,6 @@
-Aqui está a versão atualizada do seu projeto, agora com o uso do Arduino Mega:
-
 ---
 
-# MIC014Aula4-VictorC-RyanK-IgorP_UFRR_2024
+# Projeto1-VictorC-RyanK-IgorP_UFRR_2024
 
 <br />  
 <p align="center">
