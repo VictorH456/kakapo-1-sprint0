@@ -34,5 +34,7 @@ O desenvolvimento será realizado na plataforma **Arduino IDE**, utilizando a pr
 - **Sensor de Batimento Cardíaco MAX30100**: Conecte os pinos **SCL** e **SDA** aos pinos **SCL (21)** e **SDA (20)** do Arduino Mega, respectivamente. O VCC vai ao **5V** e o GND ao **GND**.
 - **Alimentação**: A alimentação pode ser feita via cabo USB ou por uma fonte externa compatível, como uma bateria de lítio recarregável ou uma fonte de 5V.
 ### 2.1 Circuito:
-<img src="https://github.com/VictorH456/kakapo-1-sprint0/blob/main/Imagens/circuito.png">
+<p align="center">  
+  <img src="https://github.com/VictorH456/kakapo-1-sprint0/blob/main/Imagens/circuito.png" width="480px">
+</p>
 ---
