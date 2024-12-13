@@ -11,7 +11,8 @@
   </a>
   <h1 align="center">Projeto Pulseira Inteligente</h1>
   <p align="center">
-    <img src="https://github.com/VictorH456/kakapo-1-sprint0/blob/main/Imagens/logo.jpeg">
+    <img src="https://github.com/VictorH456/kakapo-2-sprint0/blob/main/Imagens/logo2.jpeg">
+  </p>
     
 
 ## 1. Pulseira Inteligente para Monitoramento de Temperatura e Batimento Cardíaco
